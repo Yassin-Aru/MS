@@ -17,7 +17,7 @@ function NavList() {
         className="p-1 font-medium"
       >
         <a href="#" className="flex items-center hover:text-blue-500 transition-colors">
-          Pages
+        تواصل
         </a>
       </Typography>
       <Typography
@@ -27,7 +27,7 @@ function NavList() {
         className="p-1 font-medium"
       >
         <a href="#" className="flex items-center hover:text-blue-500 transition-colors">
-          Account
+        صفحة الجمعيات
         </a>
       </Typography>
       <Typography
@@ -37,7 +37,7 @@ function NavList() {
         className="p-1 font-medium"
       >
         <a href="#" className="flex items-center hover:text-blue-500 transition-colors">
-          Blocks
+        صفحة القرى
         </a>
       </Typography>
       <Typography
@@ -47,7 +47,7 @@ function NavList() {
         className="p-1 font-medium"
       >
         <a href="#" className="flex items-center hover:text-blue-500 transition-colors">
-          Docs
+        الرئيسية
         </a>
       </Typography>
     </ul>
